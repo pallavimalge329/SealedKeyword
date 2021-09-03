@@ -18,8 +18,7 @@ namespace SealedKeyword
 
     class Program
     {
-
-        // Main Method
+       // Main Method
         static void Main(string[] args)
         {
 
